@@ -78,4 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 https://angrytools.com/gradient/
 ### Figma
 https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15
->>>>>>> a4c6d067caeadb4d0fec843b5a49f32167dd924c
