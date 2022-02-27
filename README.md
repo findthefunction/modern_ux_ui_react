@@ -9,5 +9,5 @@ https://angrytools.com/gradient/
 ### Figma
 https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15
 ### From scratch walk-through
-##Thanks you to:
+## Thank you:
 https://github.com/adrianhajdin/project_modern_ui_ux_gpt3
